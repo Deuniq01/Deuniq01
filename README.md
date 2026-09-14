@@ -1,11 +1,6 @@
-<!--
-  DEUNIQ | GITHUB PROFILE README
-  Repository: Deuniq01/Deuniq01
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=DEUNIQ&fontSize=70&fontAlignY=38&desc=Web%20Developer%20%7C%20Digital%20Product%20Builder&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=DEUNIQ&fontSize=70&fontAlignY=38&desc=Web%20Developer%20%7C%20Digital%20Product%20Builder&descAlignY=58&animation=fadeIn&color=0:0B1F3A,50:0D47A1,100:1976D2&fontColor=FFFFFF" width="100%" />
 
 <h1>Building things people actually use.</h1>
 
@@ -21,7 +16,7 @@ I build practical digital products that turn real world problems into useful sof
 <a href="https://x.com/deuniq01">X</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Deuniq01&label=Profile%20Views&color=555555&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Deuniq01&label=Profile%20Views&color=1565C0&style=flat" alt="Profile views" />
 
 </div>
 
@@ -37,16 +32,16 @@ I am **Deuniq**, a web developer from Nigeria with a background in Statistics an
 
 My work sits at the intersection of:
 
-**Development**  
+**Development**
 Building web applications, platforms, dashboards and e commerce systems.
 
-**Product Thinking**  
+**Product Thinking**
 Understanding the problem first, then designing and building the system around it.
 
-**Analytical Thinking**  
+**Analytical Thinking**
 Using my Statistics background to approach problems with structure, logic and attention to data.
 
-**Design & Strategy**  
+**Design & Strategy**
 Bringing together interfaces, branding, content and technology where the project requires it.
 
 </td>
@@ -57,15 +52,15 @@ Bringing together interfaces, branding, content and technology where the project
 
 I build:
 
-• Practical web applications  
-• Digital platforms  
-• E commerce products  
-• Dashboards and CMS platforms  
-• Database driven applications  
-• API powered applications  
-• AI assisted products  
-• Business websites  
-• Automation workflows  
+• Practical web applications
+• Digital platforms
+• E commerce products
+• Dashboards and CMS platforms
+• Database driven applications
+• API powered applications
+• AI assisted products
+• Business websites
+• Automation workflows
 
 My goal is simple:
 
@@ -88,6 +83,7 @@ My goal is simple:
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,sql" />
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Frontend
@@ -106,21 +102,22 @@ My goal is simple:
 
 <br><br>
 
-Supabase  
-PostgreSQL  
-Supabase Auth  
-REST APIs  
-Third party APIs  
+Supabase
+PostgreSQL
+Supabase Auth
+REST APIs
+Third party APIs
 AI APIs
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Authentication
 
-Supabase Auth  
-JWT  
-OAuth  
+Supabase Auth
+JWT
+OAuth
 Custom authentication
 
 </td>
@@ -135,11 +132,12 @@ Custom authentication
 
 <br><br>
 
-Cursor  
-PowerShell  
+Cursor
+PowerShell
 Windows development environment
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Deployment
@@ -148,8 +146,8 @@ Windows development environment
 
 <br><br>
 
-Netlify  
-Vercel  
+Netlify
+Vercel
 Production web deployment
 
 </td>
@@ -162,7 +160,8 @@ Production web deployment
 
 <table>
 <tr>
-<td width="25%" align="center">
+
+<td width="25%" align="center" valign="top">
 
 ### Web Applications
 
@@ -170,7 +169,7 @@ Business applications and platforms designed around real workflows.
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### E Commerce
 
@@ -178,7 +177,7 @@ Shopping experiences, product systems, ordering workflows and customer dashboard
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### AI Products
 
@@ -186,13 +185,14 @@ Applications that use AI where it adds practical value to the product.
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### Digital Systems
 
 CMS platforms, dashboards, registration systems and organizational tools.
 
 </td>
+
 </tr>
 </table>
 
@@ -200,106 +200,261 @@ CMS platforms, dashboards, registration systems and organizational tools.
 
 # Featured Projects
 
-## 01 · Coral Shopping
+These projects represent different sides of how I approach digital product development, from e commerce and AI products to organizational systems and business platforms.
+
+<br>
+
+<!-- CORAL SHOPPING -->
+
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#0D47A1">
+
+<h2 style="color:white;">01 &nbsp; Coral Shopping</h2>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-<img src="coral-preview.png" width="90%" alt="Coral Shopping screenshot" />
+<img src="./coral-preview.png" width="92%" alt="Coral Shopping screenshot" />
 
 </div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
 ### E Commerce Platform
 
 A production oriented shopping platform built for **Coral Shopping**, combining product discovery, customer accounts, ordering, payment workflows, inventory aware purchasing and an AI shopping assistant.
 
-**Stack**
+The application goes beyond a storefront by connecting customer workflows, order management, inventory logic, payment processing and administration in one system.
+
+<br>
+
+**Key Capabilities**
+
+• Product catalogue and search
+• Category and aisle based browsing
+• Stock aware cart
+• Customer authentication
+• Checkout and delivery details
+• Bank transfer payment workflow
+• Customer order dashboard
+• Order status tracking
+• Protected administration area
+• Product and order management
+• Custom shopping requests
+• AI shopping assistant
+• Server side price and stock validation
+• PostgreSQL backed data model
+• Supabase Row Level Security
+
+</td>
+
+<td width="35%" valign="top" align="center">
+
+### Stack
 
 <img src="https://skillicons.dev/icons?i=react,vite,supabase,postgres" />
 
-**Core Features**
+<br><br>
 
-• Product catalogue and search  
-• Category and aisle based browsing  
-• Stock aware cart  
-• Customer authentication  
-• Checkout and delivery details  
-• Bank transfer payment workflow  
-• Customer order dashboard  
-• Order status tracking  
-• Protected administration area  
-• Product and order management  
-• Custom shopping requests  
-• AI shopping assistant  
-• Server side price and stock validation  
-• PostgreSQL backed data model  
-• Supabase Row Level Security
+**Frontend**
+React
+Vite
+React Router
+
+<br>
+
+**Backend**
+Supabase
+PostgreSQL
+Supabase Auth
+
+<br>
+
+**AI**
+AI shopping assistant
+
+<br>
+
+**Deployment**
+Netlify
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-<a href="https://coral-shopping-phi.vercel.app">Live Product</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Deuniq01/Coral-Shop">Source Code</a>
+<a href="https://coralshopping-phi.vercel.app">
+<img src="https://img.shields.io/badge/LIVE%20PRODUCT-0D47A1?style=for-the-badge&logoColor=white" alt="Live Product" />
+</a>
+
+ 
+
+<a href="https://github.com/Deuniq01/Coral-Shop">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
+
+</div>
+
+<br>
+<br>
+
+<!-- MATCHIVA -->
+
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#1565C0">
+
+<h2 style="color:white;">02 &nbsp; Matchiva</h2>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="./matchiva-preview.png" width="92%" alt="Matchiva dashboard" />
 
 </div>
 
 <br>
 
----
-
-## 02 · Matchiva
-
-<div align="center">
-
-<img src="./matchiva-preview.png" width="90%" alt="Matchiva screenshot" />
-
-</div>
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
 ### AI Assisted Opportunity Discovery
 
-Matchiva is an AI-assisted opportunity discovery platform that helps users find relevant jobs and scholarships through automated sourcing, resume based matching and explainable eligibility logic.
+Matchiva is an AI assisted opportunity discovery platform that helps users find relevant jobs and scholarships through automated sourcing, resume based matching and explainable eligibility logic.
 
-The platform combines automated opportunity sourcing, resume oriented matching and explainable eligibility logic.
+The product combines opportunity aggregation, resume analysis and AI powered matching to reduce the amount of manual searching users need to do.
 
-**Core Areas**
+<br>
 
-• Automated job discovery  
-• Resume based opportunity matching  
-• AI assisted CV parsing  
-• Job relevance scoring  
-• Scholarship discovery  
-• Explainable scholarship eligibility  
-• Multiple job source integrations  
-• Opportunity aggregation  
-• Serverless processing  
+**Key Capabilities**
+
+• Automated job discovery
+• Resume based opportunity matching
+• AI assisted CV parsing
+• Job relevance scoring
+• Scholarship discovery
+• Explainable scholarship eligibility
+• Multiple job source integrations
+• Opportunity aggregation
+• Serverless processing
 • Supabase backed data
+
+<br>
 
 **Opportunity Sources**
 
-Matchiva currently integrates multiple job sources, including sources such as Amazon Jobs, Working Nomads, HotNigerianJobs and Jobspresso, alongside aggregation services.
+Matchiva integrates multiple job sources, including Amazon Jobs, Working Nomads, HotNigerianJobs and Jobspresso, alongside aggregation services.
+
+<br>
 
 **AI**
 
 Google Gemini is used for CV parsing and scholarship structure extraction.
 
+</td>
+
+<td width="35%" valign="top" align="center">
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=react,vite,supabase,postgres,netlify" />
+
+<br><br>
+
+**Frontend**
+React
+Vite
+
+<br>
+
+**Backend**
+Supabase
+Netlify Functions
+
+<br>
+
+**AI**
+Google Gemini
+
+<br>
+
+**Data**
+PostgreSQL
+
+<br>
+
+**Product Focus**
+Jobs
+Scholarships
+AI matching
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
-<a href="https://matchiva-ai.netlify.app">Live Product</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Deuniq01/Matchiva">Repository</a>
+<a href="https://matchiva-ai.netlify.app">
+<img src="https://img.shields.io/badge/LIVE%20PRODUCT-0D47A1?style=for-the-badge&logoColor=white" alt="Live Product" />
+</a>
+
+ 
+
+<a href="https://github.com/Deuniq01/Matchiva">
+<img src="https://img.shields.io/badge/REPOSITORY-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+</a>
+
+</div>
+
+<br>
+<br>
+
+<!-- NYF CMS -->
+
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#1976D2">
+
+<h2 style="color:white;">03 &nbsp; NYF CMS</h2>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="./nyf-preview.png" width="92%" alt="NYF CMS screenshot" />
 
 </div>
 
 <br>
 
----
-
-## 03 · NYF CMS
-
-<div align="center">
-
-<img src="nyf-preview.png" width="90%" alt="NYF CMS screenshot" />
-
-</div>
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
 ### Medical Outreach Management Platform
 
@@ -307,111 +462,257 @@ NYF CMS is a real world management platform built for **NEJOMCO Youth Forum** to
 
 The system brings public registration, beneficiary management, clinical workflows, inventory, volunteers, reporting and administration into one application.
 
-**Stack**
-
-<img src="https://skillicons.dev/icons?i=react,typescript,vite,supabase,postgres,vercel" />
-
-**Engineering Areas**
-
-• React 19  
-• TypeScript  
-• Vite  
-• Tailwind CSS v4  
-• Supabase PostgreSQL  
-• Supabase Auth  
-• Google OAuth  
-• Row Level Security  
-• Supabase Realtime  
-• Zustand  
-• React Hook Form  
-• Zod  
-• PWA architecture  
-• Workbox  
-• Vercel deployment
+<br>
 
 **Core Modules**
 
-• Beneficiary registration  
-• Check in  
-• Vital signs  
-• Consultation  
-• Laboratory  
-• Eye screening  
-• Pharmacy  
-• Medication inventory  
-• Queue management  
-• Volunteer management  
-• User and role management  
-• Sponsorship management  
-• Reports and exports  
-• Audit logging  
-• Public organisation website  
+• Beneficiary registration
+• Check in
+• Vital signs
+• Consultation
+• Laboratory
+• Eye screening
+• Pharmacy
+• Medication inventory
+• Queue management
+• Volunteer management
+• User and role management
+• Sponsorship management
+• Reports and exports
+• Audit logging
+• Public organisation website
 • Blog management
+
+<br>
 
 The system is designed around a real operational workflow rather than simply providing a collection of static pages.
 
+</td>
+
+<td width="35%" valign="top" align="center">
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,supabase,postgres,vercel" />
+
+<br><br>
+
+React 19
+TypeScript
+Vite
+Tailwind CSS v4
+
+<br>
+
+Supabase PostgreSQL
+Supabase Auth
+Google OAuth
+Supabase Realtime
+Row Level Security
+
+<br>
+
+Zustand
+React Hook Form
+Zod
+
+<br>
+
+PWA
+Workbox
+Vercel
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
-<a href="https://nyf-cms.vercel.app">Live Platform</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Deuniq01/nyf-cms">Repository</a>
+<a href="https://nyf-cms.vercel.app">
+<img src="https://img.shields.io/badge/LIVE%20PLATFORM-1565C0?style=for-the-badge&logoColor=white" alt="Live Platform" />
+</a>
+
+ 
+
+<a href="https://github.com/Deuniq01/nyf-cms">
+<img src="https://img.shields.io/badge/REPOSITORY-1976D2?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+</a>
+
+</div>
+
+<br>
+<br>
+
+<!-- OMGKHUB -->
+
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#0D47A1">
+
+<h2 style="color:white;">04 &nbsp; OMGKHUB</h2>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="./omgk-preview.png" width="92%" alt="OMGKHUB screenshot" />
 
 </div>
 
 <br>
 
----
-
-## 04 · OMGKHUB
-
-<div align="center">
-
-<img src="omgk-preview.png" width="90%" alt="OMGKHUB screenshot" />
-
-</div>
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
 ### Business Website & Digital Platform
 
 OMGKHUB is a multi page business website built with reusable page generation and shared interface structures instead of maintaining every page independently.
 
+The project demonstrates how a static business website can still have a structured development architecture with reusable components, generated pages and integrated business workflows.
+
+<br>
+
 **Architecture**
 
-• Shared navigation  
-• Shared footer  
-• Reusable page sections  
-• Automated page generation  
-• Contact workflows  
-• Service booking forms  
-• Quote requests  
-• Callback requests  
-• Custom 404 page  
-• Sitemap  
-• Robots configuration  
+• Shared navigation
+• Shared footer
+• Reusable page sections
+• Automated page generation
+• Contact workflows
+• Service booking forms
+• Quote requests
+• Callback requests
+• Custom 404 page
+• Sitemap
+• Robots configuration
 • Netlify Forms integration
+
+<br>
 
 The project demonstrates an approach to building maintainable static websites with shared architecture rather than repeatedly duplicating markup.
 
+</td>
+
+<td width="35%" valign="top" align="center">
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,netlify" />
+
+<br><br>
+
+HTML
+CSS
+JavaScript
+
+<br>
+
+Node.js page generation
+
+<br>
+
+Reusable page architecture
+
+<br>
+
+Netlify Forms
+
+<br>
+
+Production deployment
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
-<a href="https://omgkhub.ng">Live Website</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Deuniq01/OMGKHUB">Source Code</a>
+<a href="https://omgkhub.ng">
+<img src="https://img.shields.io/badge/LIVE%20WEBSITE-0D47A1?style=for-the-badge&logoColor=white" alt="Live Website" />
+</a>
+
+ 
+
+<a href="https://github.com/Deuniq01/OMGKHUB">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
 
 </div>
 
 <br>
+<br>
 
----
+<!-- KCEE -->
 
-## 05 · Kcee
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#1E88E5">
+
+<h2 style="color:white;">05 &nbsp; Kcee</h2>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+### Business Website
 
 A web project built for **KCee Construction Ltd**, one of the earlier projects in my development portfolio.
 
 The project reflects my work across business websites, interface development and translating business requirements into functional web experiences.
 
+<br>
+
+**Focus Areas**
+
+• Business website development
+• Interface implementation
+• Responsive layouts
+• Translating business requirements into web experiences
+
+</td>
+
+<td width="35%" valign="top" align="center">
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
+HTML
+CSS
+JavaScript
+
+<br>
+
+Business website development
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
-<a href="https://github.com/Deuniq01/Kcee">Source Code</a>
+<a href="https://github.com/Deuniq01/Kcee">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-1976D2?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
 
 </div>
 
@@ -421,6 +722,7 @@ The project reflects my work across business websites, interface development and
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### Product Development
@@ -444,9 +746,11 @@ Building interfaces, application logic, data flows and production deployments.
 Designing applications around structured data, database relationships and operational workflows.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="33%" valign="top">
 
 ### API Integration
@@ -470,6 +774,7 @@ Using AI APIs to solve specific product problems rather than adding AI simply fo
 Taking applications from local development to accessible production environments.
 
 </td>
+
 </tr>
 </table>
 
@@ -479,6 +784,7 @@ Taking applications from local development to accessible production environments
 
 <table>
 <tr>
+
 <td align="center" width="20%">
 
 **01**
@@ -528,6 +834,7 @@ Find problems, verify behaviour and improve reliability.
 Move the product into a real usable environment.
 
 </td>
+
 </tr>
 </table>
 
@@ -539,14 +846,14 @@ I am currently focused on becoming stronger across the complete product developm
 
 ### Learning & Building
 
-React  
-React Native  
-AI powered applications  
-Production web applications  
-Cloud deployment  
-Database driven systems  
-Modern authentication  
-API integrations  
+React
+React Native
+AI powered applications
+Production web applications
+Cloud deployment
+Database driven systems
+Modern authentication
+API integrations
 Product architecture
 
 My longer term direction is to become a strong **full stack product engineer** capable of taking a product from idea and architecture through development, deployment and iteration.
@@ -557,17 +864,9 @@ My longer term direction is to become a strong **full stack product engineer** c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deuniq01&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Deuniq01&show_icons=true&hide_border=true&rank_icon=github&title_color=1565C0&icon_color=1976D2&text_color=555555" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deuniq01&layout=compact&hide_border=true" height="170" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Deuniq01&hide_border=true" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deuniq01&layout=compact&hide_border=true&title_color=1565C0&text_color=555555" height="170" />
 
 </div>
 
@@ -575,7 +874,15 @@ My longer term direction is to become a strong **full stack product engineer** c
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deuniq01&hide_border=true&area=true" width="95%" />
+<img src="https://streak-stats.demolab.com/?user=Deuniq01&hide_border=true&ring=1565C0&fire=1976D2&currStreakLabel=0D47A1&sideLabels=1565C0&dates=666666" width="70%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deuniq01&hide_border=true&area=true&color=1565C0&line=1976D2&point=0D47A1&area_color=BBDEFB" width="95%" />
 
 </div>
 
@@ -604,10 +911,8 @@ The goal is not simply to write code.
 <div align="center">
 
 <a href="https://deuniq.vercel.app/">Portfolio</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Deuniq01">GitHub</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://x.com/deuniq01">X</a>
+  •   <a href="https://github.com/Deuniq01">GitHub</a>
+  •   <a href="https://x.com/deuniq01">X</a>
 
 <br><br>
 
@@ -619,6 +924,6 @@ Open to conversations around software, digital products, collaboration and inter
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn&color=0:1976D2,50:0D47A1,100:0B1F3A" width="100%" />
 
 </div>
