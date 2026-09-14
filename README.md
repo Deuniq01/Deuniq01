@@ -204,7 +204,7 @@ CMS platforms, dashboards, registration systems and organizational tools.
 
 <div align="center">
 
-<img src="coral-preview" width="90%" alt="Coral Shopping screenshot" />
+<img src="coral-preview.png" width="90%" alt="Coral Shopping screenshot" />
 
 </div>
 
@@ -297,7 +297,7 @@ Google Gemini is used for CV parsing and scholarship structure extraction.
 
 <div align="center">
 
-<img src="nyf-preview" width="90%" alt="NYF CMS screenshot" />
+<img src="nyf-preview.png" width="90%" alt="NYF CMS screenshot" />
 
 </div>
 
@@ -366,7 +366,7 @@ The system is designed around a real operational workflow rather than simply pro
 
 <div align="center">
 
-<img src="omgk-preview" width="90%" alt="OMGKHUB screenshot" />
+<img src="omgk-preview.png" width="90%" alt="OMGKHUB screenshot" />
 
 </div>
 
