@@ -32,16 +32,16 @@ I am **Deuniq**, a web developer from Nigeria with a background in Statistics an
 
 My work sits at the intersection of:
 
-**Development**
+**Development:**
 Building web applications, platforms, dashboards and e commerce systems.
 
-**Product Thinking**
+**Product Thinking:**
 Understanding the problem first, then designing and building the system around it.
 
-**Analytical Thinking**
+**Analytical Thinking:**
 Using my Statistics background to approach problems with structure, logic and attention to data.
 
-**Design & Strategy**
+**Design & Strategy:**
 Bringing together interfaces, branding, content and technology where the project requires it.
 
 </td>
@@ -50,18 +50,18 @@ Bringing together interfaces, branding, content and technology where the project
 
 ## What I Do
 
-I build:
-
-• Practical web applications
-• Digital platforms
-• E commerce products
-• Dashboards and CMS platforms
-• Database driven applications
-• API powered applications
-• AI assisted products
-• Business websites
-• Automation workflows
-
+**I build:**
+<ul>
+<li>Practical web applications</li>
+<li>Digital platforms</li>
+<li>E commerce products</li>
+<li>Dashboards and CMS platforms
+<li>Database driven applications
+<li>API powered applications
+<li>AI assisted products
+<li>Business websites
+<li>Automation workflows
+</ul>
 My goal is simple:
 
 > Build software that solves a real problem and is useful beyond the development process itself.
@@ -239,23 +239,23 @@ The application goes beyond a storefront by connecting customer workflows, order
 <br>
 
 **Key Capabilities**
-
-• Product catalogue and search
-• Category and aisle based browsing
-• Stock aware cart
-• Customer authentication
-• Checkout and delivery details
-• Bank transfer payment workflow
-• Customer order dashboard
-• Order status tracking
-• Protected administration area
-• Product and order management
-• Custom shopping requests
-• AI shopping assistant
-• Server side price and stock validation
-• PostgreSQL backed data model
-• Supabase Row Level Security
-
+<ul>
+<li>Product catalogue and search
+<li>Category and aisle-based browsing
+<li>Stock aware cart
+<li>Customer authentication
+<li>Checkout and delivery details
+<li>Bank transfer payment workflow
+<li>Customer order dashboard
+<li>Order status tracking
+<li>Protected administration area
+<li>Product and order management
+<li>Custom shopping requests
+<li>AI shopping assistant
+<li>Server side price and stock validation
+<li>PostgreSQL backed data model
+<li>Supabase Row Level Security
+</ul>
 </td>
 
 <td width="35%" valign="top" align="center">
@@ -266,27 +266,28 @@ The application goes beyond a storefront by connecting customer workflows, order
 
 <br><br>
 
-**Frontend**
-React
-Vite
+**Frontend:** <br>
+React<br>
+Vite <br>
 React Router
 
 <br>
 
-**Backend**
-Supabase
-PostgreSQL
-Supabase Auth
+**Backend:** <br>
+Supabase <br>
+PostgreSQL <br>
+Supabase Auth 
 
 <br>
 
-**AI**
+**AI:** <br>
 AI shopping assistant
 
 <br>
 
-**Deployment**
-Netlify
+**Deployment:** <br>
+Vercel <br> Netlify
+
 
 </td>
 </tr>
@@ -346,18 +347,18 @@ The product combines opportunity aggregation, resume analysis and AI powered mat
 <br>
 
 **Key Capabilities**
-
-• Automated job discovery
-• Resume based opportunity matching
-• AI assisted CV parsing
-• Job relevance scoring
-• Scholarship discovery
-• Explainable scholarship eligibility
-• Multiple job source integrations
-• Opportunity aggregation
-• Serverless processing
-• Supabase backed data
-
+<ul>
+<li>Automated job discovery
+<li>Resume based opportunity matching
+<li>AI assisted CV parsing
+<li>Job relevance scoring
+<li>Scholarship discovery
+<li>Explainable scholarship eligibility
+<li>Multiple job source integrations
+<li>Opportunity aggregation
+<li>Serverless processing
+<li>Supabase backed data
+</ul>
 <br>
 
 **Opportunity Sources**
@@ -368,7 +369,7 @@ Matchiva integrates multiple job sources, including Amazon Jobs, Working Nomads,
 
 **AI**
 
-Google Gemini is used for CV parsing and scholarship structure extraction.
+Google Gemini handles CV parsing and scholarship structure extraction.
 
 </td>
 
@@ -380,31 +381,31 @@ Google Gemini is used for CV parsing and scholarship structure extraction.
 
 <br><br>
 
-**Frontend**
-React
+**Frontend** <br>
+React<br>
 Vite
 
 <br>
 
-**Backend**
-Supabase
+**Backend** <br>
+Supabase <br>
 Netlify Functions
 
 <br>
 
-**AI**
+**AI** <br>
 Google Gemini
 
 <br>
 
-**Data**
+**Data** <br>
 PostgreSQL
 
 <br>
 
-**Product Focus**
-Jobs
-Scholarships
+**Product Focus** <br>
+Jobs <br>
+Scholarships <br>
 AI matching
 
 </td>
@@ -465,27 +466,27 @@ The system brings public registration, beneficiary management, clinical workflow
 <br>
 
 **Core Modules**
-
-• Beneficiary registration
-• Check in
-• Vital signs
-• Consultation
-• Laboratory
-• Eye screening
-• Pharmacy
-• Medication inventory
-• Queue management
-• Volunteer management
-• User and role management
-• Sponsorship management
-• Reports and exports
-• Audit logging
-• Public organisation website
-• Blog management
-
+<ul>
+<li>Beneficiary registration
+<li>Check-in
+<li>Vital signs
+<li>Consultation
+<li>Laboratory
+<li>Eye screening
+<li>Pharmacy
+<li>Medication inventory
+<li>Queue management
+<li>Volunteer management
+<li>User and role management
+<li>Sponsorship management
+<li>Reports and exports
+<li>Audit logging
+<li>Public organisation website
+<li>Blog management
+</ul>
 <br>
 
-The system is designed around a real operational workflow rather than simply providing a collection of static pages.
+The system is designed around a real operational workflow, not just a collection of static pages.
 
 </td>
 
@@ -497,29 +498,29 @@ The system is designed around a real operational workflow rather than simply pro
 
 <br><br>
 
-React 19
-TypeScript
-Vite
+React 19 <br>
+TypeScript <br>
+Vite <br>
 Tailwind CSS v4
 
 <br>
 
-Supabase PostgreSQL
-Supabase Auth
-Google OAuth
-Supabase Realtime
+Supabase PostgreSQL <br>
+Supabase Auth <br>
+Google OAuth <br>
+Supabase Realtime <br>
 Row Level Security
 
 <br>
 
-Zustand
-React Hook Form
+Zustand <br>
+React Hook Form <br>
 Zod
 
 <br>
 
-PWA
-Workbox
+PWA <br>
+Workbox <br>
 Vercel
 
 </td>
@@ -580,20 +581,20 @@ The project demonstrates how a static business website can still have a structur
 <br>
 
 **Architecture**
-
-• Shared navigation
-• Shared footer
-• Reusable page sections
-• Automated page generation
-• Contact workflows
-• Service booking forms
-• Quote requests
-• Callback requests
-• Custom 404 page
-• Sitemap
-• Robots configuration
-• Netlify Forms integration
-
+<ul>
+<li>Shared navigation
+<li>Shared footer
+<li>Reusable page sections
+<li>Automated page generation
+<li>Contact workflows
+<li>Service booking forms
+<li>Quote requests
+<li>Callback requests
+<li>Custom 404 page
+<li>Sitemap
+<li>Robots configuration
+<li>Netlify Forms integration
+</ul>
 <br>
 
 The project demonstrates an approach to building maintainable static websites with shared architecture rather than repeatedly duplicating markup.
@@ -608,8 +609,8 @@ The project demonstrates an approach to building maintainable static websites wi
 
 <br><br>
 
-HTML
-CSS
+HTML <br>
+CSS <br>
 JavaScript
 
 <br>
@@ -665,6 +666,14 @@ Production deployment
 
 <br>
 
+<div align="center">
+
+<img src="./kcee-preview.png" width="92%" alt="KCEE Construction screenshot" />
+
+</div>
+
+<br>
+
 <table width="100%">
 <tr>
 <td width="65%" valign="top">
@@ -679,10 +688,10 @@ The project reflects my work across business websites, interface development and
 
 **Focus Areas**
 
-• Business website development
-• Interface implementation
-• Responsive layouts
-• Translating business requirements into web experiences
+<li>Business website development
+<li>Interface implementation
+<li>Responsive layouts
+<li>Translating business requirements into web experiences
 
 </td>
 
@@ -694,8 +703,8 @@ The project reflects my work across business websites, interface development and
 
 <br><br>
 
-HTML
-CSS
+HTML <br>
+CSS <br>
 JavaScript
 
 <br>
