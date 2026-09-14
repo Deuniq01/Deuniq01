@@ -204,7 +204,7 @@ CMS platforms, dashboards, registration systems and organizational tools.
 
 <div align="center">
 
-<img src="YOUR_CORAL_SHOPPING_SCREENSHOT_URL" width="90%" alt="Coral Shopping screenshot" />
+<img src="coral-preview" width="90%" alt="Coral Shopping screenshot" />
 
 </div>
 
@@ -236,7 +236,7 @@ A production oriented shopping platform built for **Coral Shopping**, combining 
 
 <div align="center">
 
-<a href="YOUR_CORAL_SHOPPING_LIVE_URL">Live Product</a>
+<a href="https://coral-shopping-phi.vercel.app">Live Product</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/Deuniq01/Coral-Shop">Source Code</a>
 
@@ -250,13 +250,13 @@ A production oriented shopping platform built for **Coral Shopping**, combining 
 
 <div align="center">
 
-<img src="YOUR_MATCHIVA_SCREENSHOT_URL" width="90%" alt="Matchiva screenshot" />
+<img src="./matchiva-preview.png" width="90%" alt="Matchiva screenshot" />
 
 </div>
 
 ### AI Assisted Opportunity Discovery
 
-Matchiva is an opportunity discovery platform designed to help people find relevant jobs and scholarships without manually searching across countless sources.
+Matchiva is an AI-assisted opportunity discovery platform that helps users find relevant jobs and scholarships through automated sourcing, resume based matching and explainable eligibility logic.
 
 The platform combines automated opportunity sourcing, resume oriented matching and explainable eligibility logic.
 
@@ -297,7 +297,7 @@ Google Gemini is used for CV parsing and scholarship structure extraction.
 
 <div align="center">
 
-<img src="YOUR_NYF_CMS_SCREENSHOT_URL" width="90%" alt="NYF CMS screenshot" />
+<img src="nyf-preview" width="90%" alt="NYF CMS screenshot" />
 
 </div>
 
@@ -366,7 +366,7 @@ The system is designed around a real operational workflow rather than simply pro
 
 <div align="center">
 
-<img src="YOUR_OMGKHUB_SCREENSHOT_URL" width="90%" alt="OMGKHUB screenshot" />
+<img src="omgk-preview" width="90%" alt="OMGKHUB screenshot" />
 
 </div>
 
@@ -393,7 +393,7 @@ The project demonstrates an approach to building maintainable static websites wi
 
 <div align="center">
 
-<a href="YOUR_OMGKHUB_LIVE_URL">Live Website</a>
+<a href="https://omgkhub.ng">Live Website</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://github.com/Deuniq01/OMGKHUB">Source Code</a>
 
